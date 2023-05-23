@@ -1,0 +1,13 @@
+Event,Prerequisite,Duration,Exercises or Solutions,Form
+Reproducibility in Life Sciences,Basic Statistics,90,No,Slides
+Terminal and Bash,Bash shell,90,Yes,Video
+Introduction to Python,Python Environment,90,Yes,Jupiter notebook
+Scientific Python: NumPy and Scipy,Python Environment,90,Yes,Slides
+Introduction to Git and GitHub,Basic Programming,75,Yes,Video
+Data Wrangling with Pandas,Python Environment,90,Yes,Jupiter notebook
+Classical statistics pitfalls and remedies,Basic Statistics,60,Yes,Slides
+Machine Learning 1: Supervised Learning,Python Environment,90,Yes,Jupiter notebook
+Machine Learning 2: Model selection validation,Python Environment,90,Yes,Slides
+Introduction to Data Visualization,Python Environment,90,Yes,Slides
+Containers,Docker,105,Yes,Slides
+High Performance Computing,Bash shell,90,Yes,Slides
