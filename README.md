@@ -83,6 +83,52 @@ Yes
 ### Training Format
 Slides
 
+### **Additional Training Material**
+### Numpy Introduction: 
+[Link](https://www.w3schools.com/python/numpy/numpy_intro.asp)
+
+### Prerquisites
+- Python environment
+ - numpy
+
+### Training Time
+~90 mins
+### Exercises and Solutions?
+yes
+
+## Training format 
+Web browser
+
+### NumPy: the absolute basics for beginners: 
+[Link](https://numpy.org/doc/stable/user/absolute_beginners.html)
+
+### Prerquisites
+- Python environment
+ - Numpy
+
+### Training Time
+< 2h 
+### Exercises and Solutions?
+No
+
+## Training format 
+Web browser
+
+## SciPy in Python
+
+[Link](https://www.mygreatlearning.com/academy/courses/8701970/61874#?utm_source=share_with_friends&gl_source=share_with_friends)
+
+### Prerquisites
+- Python environment
+ - Numpy
+
+### Training Time
+90 min
+### Exercises and Solutions?
+Premium feature
+
+## Training format 
+Video
 
 ## Introduction to Git and GitHub
 Git and GitHub are key tools for doing version control in both academia and industry. These tools can help students do more effient, open, and reproducible research. Further, knowing these tools can help prepare students for careers in academia and industry. In this lecture, students will learn What is version control and why has it become so important in science and industry;
